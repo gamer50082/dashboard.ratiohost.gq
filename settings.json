@@ -2,7 +2,7 @@
   "version": "12.0.0",
   "defaulttheme": "default",
   "website": {
-    "port": 8000,
+    "port": 443,
     "secret": "Default Secret (Change this)"
   },
   "pterodactyl": {
